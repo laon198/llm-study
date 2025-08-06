@@ -2,3 +2,4 @@
 .idea
 **/chroma_db/**
 **/data/**
+**/.ipynb_checkpoints/**
