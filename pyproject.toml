@@ -1,0 +1,17 @@
+[project]
+name = "llm-study"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12, <3.13"
+dependencies = [
+    "docling>=2.45.0",
+    "langchain>=0.3.27",
+    "langchain-core>=0.3.74",
+    "langchain-experimental>=0.3.4",
+    "langchain-google-genai>=2.1.9",
+    "langchain-neo4j>=0.5.0",
+    "langchain-openai>=0.3.30",
+    "notebook>=7.4.5",
+    "pandas>=2.3.1",
+    "python-dotenv>=1.1.1",
+]
